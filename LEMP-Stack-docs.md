@@ -88,7 +88,7 @@ http://54.163.52.193:80
 curl -s  http://169.254.169.254/latest/meta-data/public-ipv4
 ```
 
-![ssh](images/11.png)<br><br>
+![ssh](images/11-11.png)<br><br>
 
 ## Step 2 - Install MySQL
 
