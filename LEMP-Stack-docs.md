@@ -88,7 +88,7 @@ http://54.163.52.193:80
 curl -s  http://169.254.169.254/latest/meta-data/public-ipv4
 ```
 
-![ssh](images/11.png)<br><br>
+![ssh](images/11-1.png)<br><br>
 
 ## Step 2 - Install MySQL
 
@@ -100,7 +100,7 @@ MySQL was installed in this project. It is a popular relational database managem
 sudo apt install mysql-server
 ```
 
-![mysql](/images/12.png)<br><br>
+![mysql](images/12-1.png)<br><br>
 
 _When prompted, install was confirmed by typing y and then Enter._
 
@@ -153,7 +153,7 @@ The following were installed:
 sudo apt install php libapache2-mod-php php-mysql
 ```
 
-![php](../Assignment-107/images/15.png)<br><br>
+![php](images/15.png)<br><br>
 
 Confirm the PHP version
 
